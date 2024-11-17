@@ -1,0 +1,68 @@
+C:\Users\ADMIN\Desktop\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.exe
+C:\Users\ADMIN\Desktop\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.deps.json
+C:\Users\ADMIN\Desktop\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.runtimeconfig.json
+C:\Users\ADMIN\Desktop\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.dll
+C:\Users\ADMIN\Desktop\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.pdb
+C:\Users\ADMIN\Desktop\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.Form1.resources
+C:\Users\ADMIN\Desktop\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.dll
+C:\Users\ADMIN\Desktop\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\refint\EnglishRandomTest.dll
+C:\Users\ADMIN\Desktop\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.pdb
+C:\Users\ADMIN\Desktop\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\ref\EnglishRandomTest.dll
+C:\Users\ADMIN\Desktop\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.Properties.Resources.resources
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.exe
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.deps.json
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.runtimeconfig.json
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.dll
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.pdb
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.Form1.resources
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.Properties.Resources.resources
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.csproj.GenerateResource.cache
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.AssemblyInfoInputs.cache
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.AssemblyInfo.cs
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.csproj.CoreCompileInputs.cache
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.dll
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\refint\EnglishRandomTest.dll
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.pdb
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.genruntimeconfig.cache
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\ref\EnglishRandomTest.dll
+C:\Users\TGL 2439\Downloads\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.exe
+C:\Users\TGL 2439\Downloads\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.deps.json
+C:\Users\TGL 2439\Downloads\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.runtimeconfig.json
+C:\Users\TGL 2439\Downloads\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.dll
+C:\Users\TGL 2439\Downloads\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.pdb
+C:\Users\TGL 2439\Downloads\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.Form1.resources
+C:\Users\TGL 2439\Downloads\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.Properties.Resources.resources
+C:\Users\TGL 2439\Downloads\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.csproj.GenerateResource.cache
+C:\Users\TGL 2439\Downloads\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGL 2439\Downloads\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.AssemblyInfoInputs.cache
+C:\Users\TGL 2439\Downloads\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.AssemblyInfo.cs
+C:\Users\TGL 2439\Downloads\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.csproj.CoreCompileInputs.cache
+C:\Users\TGL 2439\Downloads\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.dll
+C:\Users\TGL 2439\Downloads\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\refint\EnglishRandomTest.dll
+C:\Users\TGL 2439\Downloads\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.pdb
+C:\Users\TGL 2439\Downloads\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.genruntimeconfig.cache
+C:\Users\TGL 2439\Downloads\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\ref\EnglishRandomTest.dll
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.exe
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.deps.json
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.runtimeconfig.json
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.dll
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\bin\Debug\net8.0-windows\EnglishRandomTest.pdb
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.Form1.resources
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.Properties.Resources.resources
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.csproj.GenerateResource.cache
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.AssemblyInfoInputs.cache
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.AssemblyInfo.cs
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.csproj.CoreCompileInputs.cache
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.dll
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\refint\EnglishRandomTest.dll
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.pdb
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.genruntimeconfig.cache
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\ref\EnglishRandomTest.dll
