@@ -22,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -48,10 +44,14 @@
               "RelativeDocumentMoniker": "EnglishRandomTest\\Form1.cs",
               "ToolTip": "D:\\Communication English\\EnglishRandomTest\\EnglishRandomTest\\EnglishRandomTest\\Form1.cs",
               "RelativeToolTip": "EnglishRandomTest\\Form1.cs",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAIwHcBAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAFwBAAAAAAAAAAAIwIMBAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T03:16:07.225Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",

@@ -74,7 +74,7 @@ namespace EnglishRandomTest
                 "Tôi đã không gặp Tom từ năm 1988",
                 "Trời đã mưa từ sáng",
                 "Anh đặt hành lý xuống",
-                "Ngôi nhà đang cháy"             
+                "Ngôi nhà đang cháy"
             };
             string[] day7 =
             {
@@ -127,7 +127,11 @@ namespace EnglishRandomTest
                 "Tao muốn biết liệu rằng Frank Griffin đã xem xét xong ngân sách đề xuất của chúng ta chưa. Hôm nay mày có nghe tin tức gì về anh ấy không?",
                 "Không, Tao không. Mày có muốn tao gọi anh ấy không?"
             };
-                
+            string[] day18 =
+            {
+                "Vậy thì tuyệt vời. Mày hỏi ông ấy nếu có bất kỳ vấn đề nào cái mà chúng ta sẽ cần giải quyết ngay lập tức không? Phiên bản cuối cùng của bản đề xuất sẽ tới hạn vào cuối tuần.",
+                "Vâng, Tao sẽ nói m biết những gì tao nghe được. Tao sẽ email cho mày ngay khi tao tắt điện thoại với ông ấy."
+            };
                     
             string[] ConcatenateArrays(params string[][] arrays)
             {
@@ -366,7 +370,34 @@ namespace EnglishRandomTest
                 "Tao có thể đậu xe ở đây không?",
                 "Chuyến đi của mày thế nào?"
             };
-                
+            string[] day18 =
+            {
+                "Tôi đã quên đóng cửa xe",
+                "Mày có biết ông Smith ở đâu không?",
+                "Xin lỗi.\n Ok, tao có thể giúp gì cho mày",
+                "Tình trạng nó còn sử dụng tốt không?"
+            };
+            string[] day19 =
+            {
+                "Tao có thể nói chuyện với Tom Smith được không?",
+                "Tao muốn nói chuyện với quản lý",
+                "Tao sẽ đi Hà Nội",
+                "Mày có nghe gì về Linda không",
+                "Giao hàng trễ, khách hàng giận ...",
+                "Cái này được tính cho cái gì?",
+                "Vợ Tom có thai",
+                "Tại sao mày lại nộp đơn vào công ty chúng tao"
+            };
+            string[] day20 =
+            {
+                "Tao muốn cái thứ hai từ phải qua",
+                "Hi Alii, chúng ta vẫn gặp nhau hôm nay như đã hẹn chứ?",
+                "Dự báo thời tiết hôm nay thế nào",
+                "Hey Ali, tao có thể thử gậy đánh golf của mày được không",
+                "Tâm thật tao tốt khi tao chơi golf",
+                "Sue Smith. Thật bất ngờ khi gặp mày",
+                "Có gì xảy ra với mày vậy"
+            };
             string[] ConcatenateArrays(params string[][] arrays)
             {
                 return arrays.SelectMany(a => a).ToArray();
