@@ -66,3 +66,4 @@ D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\o
 D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.pdb
 D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.genruntimeconfig.cache
 D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\ref\EnglishRandomTest.dll
+D:\Communication English\EnglishRandomTest\EnglishRandomTest\EnglishRandomTest\obj\Debug\net8.0-windows\EnglishRandomTest.sourcelink.json

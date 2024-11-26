@@ -398,6 +398,17 @@ namespace EnglishRandomTest
                 "Sue Smith. Thật bất ngờ khi gặp mày",
                 "Có gì xảy ra với mày vậy"
             };
+            string[] day21 =
+{
+                "Có chuyện gì đang xảy ra vậy?",
+                "Tao có thể nói chuyện với Adele được không",
+                "Tao muốn mày về nhà trước 8h",
+                "Mày nghĩ sao về việc tăng giá của chúng mình",
+                "Nó đang giảm giá",
+                "Nó cảm giác thật mềm. Nó được làm từ gì vậy?",
+                "150 đô á? đó giá cao",
+                "Nó có hoạt động không?"
+            };
             string[] ConcatenateArrays(params string[][] arrays)
             {
                 return arrays.SelectMany(a => a).ToArray();
