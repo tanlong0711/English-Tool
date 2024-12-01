@@ -409,13 +409,22 @@ namespace EnglishRandomTest
                 "150 đô á? đó giá cao",
                 "Nó có hoạt động không?"
             };
+            string[] day22 =
+            {
+                "Lên đây. Nó dễ lắm",
+                "Em có thể đi với anh không, làm ơn",
+                "Tommy, anh là 1 kẻ ngu dốt",
+                "Mom, con có 1 con cóc đẹp",
+                "Má, tôi đã bỏ lỡ xe bus",
+                "Có thể nói tôi biết bưu điện ở đâu không",
+            };
+                
             string[] ConcatenateArrays(params string[][] arrays)
             {
                 return arrays.SelectMany(a => a).ToArray();
             }
 
-            //string[] arrtxt = ConcatenateArrays(day1, day2, day3, day4, day5, day6, day7, day8);
-            string[] arrtxt = ConcatenateArrays( day15, day16,day17);
+            string[] arrtxt = ConcatenateArrays(day1, day2, day3, day4, day5, day6, day7, day8, day9, day10, day11, day12, day13, day14, day15, day16, day17, day18, day19, day20);
 
             Random randomTxt = new Random();
             txt.Text = arrtxt[randomTxt.Next(0, arrtxt.Length)];
